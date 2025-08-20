@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "Hichem Fantar"
+    "name": "Hichem"
   },
   "scripts": {
     "dev": "next dev",

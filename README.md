@@ -111,7 +111,7 @@ Lucide Icons was selected for its:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/hichemfantar/freedraw.git
+   git clone https://github.com/clicktodev/freedraw.git
    cd freedraw
    ```
 

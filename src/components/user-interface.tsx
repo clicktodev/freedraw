@@ -129,8 +129,8 @@ export function UserInterface({
             )}
           >
             <AvatarImage
-              src="https://github.com/hichemfantar.png"
-              alt="@hichemfantar"
+              src="https://github.com/clicktodev.png"
+              alt="@clicktodev"
             />
             <AvatarFallback>HF</AvatarFallback>
           </Avatar>
@@ -306,10 +306,7 @@ export function UserInterface({
             )}
             asChild
           >
-            <Link
-              href="https://github.com/hichemfantar/freedraw"
-              target="_blank"
-            >
+            <Link href="https://github.com/clicktodev/freedraw" target="_blank">
               <GithubIcon />
             </Link>
           </Button>

@@ -152,8 +152,8 @@ function DrawingApp({
     const oldHeight = canvas.height;
 
     // Update canvas dimensions to match current display size
-    canvas.width = canvas.clientWidth;
-    canvas.height = canvas.clientHeight;
+    canvas.width = 4000;
+    canvas.height = 4000;
 
     // Reset context properties which get cleared on canvas resize
     ctx.lineCap = "round";
